@@ -103,8 +103,8 @@ Which brings us to my last point, people often underestimate how important luck 
 
 If you have read the whole thing, I hope it was helpful for you in some ways. If you want to ask me something, feel free to send me an email. All the best for your PhD application!
 
-> If you are interested to read instead from people who actually had a successful PhD run, you can read advice from my talented friend Mushtari Sadia [**here**](https://mushtari-sadia.github.io/phdapp.html).
->
+> If you are instead interested to read from people who actually had a successful PhD application run, you can read advice from my talented friend Mushtari Sadia [**here**](https://mushtari-sadia.github.io/phdapp.html).
+
 
 ### Resources
 
