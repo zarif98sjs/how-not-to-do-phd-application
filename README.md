@@ -91,7 +91,7 @@ In my case, all my LORs were from professors who could vouch for my research pot
 
 ### Random thoughts
 
-The whole PhD application process is very stressful and overwhelming. It is easy to give up at any point in the process. You will need a very strong support system to get yourself through. In my case, I had incredibly supportive friends (shout out to @najib, @sadia and @mashiat), and seniors who went out of their way to help me. Don't hesitate to ask for help. People are generally very helpful. I reached out to seniors that I have never met or talked to before, and all of them helped me with everything they could.
+The whole PhD application process is very stressful and overwhelming. It is easy to give up at any point in the process. You will need a very strong support system to get yourself through. In my case, I had incredibly supportive friends (shout out to [@najib-haq](https://github.com/Najib-Haq), [@mustari-sadia](https://github.com/Mushtari-Sadia) and [@mashiatmm](https://github.com/Mashiatmm)), and seniors who went out of their way to help me. Don't hesitate to ask for help. People are generally very helpful. I reached out to seniors that I have never met or talked to before, and all of them helped me with everything they could.
 
 The PhD application process has been getting tougher day by day. I think there are some reality checks that everyone should have before applying. It makes life easier and helps you make better decisions. After the whole layoff fiasco began in the post-COVID world, it has gotten harder to get a job in the industry. Instead of completing an MSc and getting into the industry, most of the people now apply for a PhD. At least this was the case this fall. This made the competition fierce. The same could be the case for coming seasons too. 
 
@@ -103,4 +103,17 @@ Which brings us to my last point, people often underestimate how important luck 
 
 If you have read the whole thing, I hope it was helpful for you in some ways. If you want to ask me something, feel free to send me an email. All the best for your PhD application!
 
-> If you are interested to read instead from people who actually had a successful PhD run, you can read advice from my talented from Mushtari Sadia [**here**](https://mushtari-sadia.github.io/phdapp.html).
+> If you are interested to read instead from people who actually had a successful PhD run, you can read advice from my talented friend Mushtari Sadia [**here**](https://mushtari-sadia.github.io/phdapp.html).
+>
+
+### Resources
+
+Some resources that I found helpful during my application process:
+
+- [CS PhD Statement of Purpose](https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
+- [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - very insightful advices from a CMU professor
+- [Ph.D. Applications: FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) - a very good FAQ by a UW professor
+- [How to email](https://matt.might.net/articles/how-to-email/)
+- [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
+- [Applying for a PhD in NLP](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
+- [Applying to PhD programs in NLP](https://saujasv.github.io/phd-applications)
