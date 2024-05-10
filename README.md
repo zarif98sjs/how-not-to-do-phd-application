@@ -1,5 +1,3 @@
-# How not to do PhD application
-
 ![](images/how%20not%20to%20do%20phd%20application.png)
 
 I applied for PhD programs in ***CS*** (Computer Science) in the ***US*** for ***Fall 2024***. Throughout the whole application process, I felt like I made a lot of mistakes. The reason for writing this was so that others don’t make the same mistakes as mine. In this write-up, I share my journey, what I think I did right, reflect on the mistakes, and what I would have done differently if I were to go through it again (I am really happy and lucky that I don't have to go through it again 🥶)
@@ -101,7 +99,7 @@ One other reality check that I wish I had was the insane competition that is cur
 
 Which brings us to my last point, people often underestimate how important luck is. The whole process is so much stochastic. No matter how much effort you put, if it wasn’t destined for you, it won’t reach you. Don’t over stress too much. Put in your efforts and it’ll somehow work out in the end :’)
 
-If you have read the whole thing, I hope it was helpful for you in some ways. If you want to ask me something, feel free to send me an email. All the best for your PhD application!
+If you have read the whole thing, I hope it was helpful for you in some ways. If you want to ask me something, feel free to send me an email. All the best for your PhD application! As for me, my biggest challenge is yet to come. I have to survive the PhD now :-) Do keep me in your prayers.
 
 > If you are instead interested to read from people who had a successful PhD application run, you can read advice from my talented friend [*Mushtari Sadia*](https://github.com/Mushtari-Sadia) on how to acutally do PhD application [**here**](https://mushtari-sadia.github.io/phdapp.html).
 
