@@ -115,3 +115,11 @@ Some resources that I found helpful during my application process:
 - [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
 - [Applying for a PhD in NLP](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
 - [Applying to PhD programs in NLP](https://saujasv.github.io/phd-applications)
+
+### Statement of Purpose
+
+In the spirit of open source, I am sharing my SOP here. I hope it helps you in some ways.
+
+![](images/SOP.png)
+
+[Zarif - SOP - Fall 2024](SOP/_Zarif____SoP__Fall_2024_.pdf)
